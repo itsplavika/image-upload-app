@@ -1,0 +1,11 @@
+.error {
+    color: red;
+}
+
+#img-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
